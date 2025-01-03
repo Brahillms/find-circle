@@ -1,1 +1,1 @@
--std=c23 -Wall -Werror -Wextra -O3 -v
+-Wall -Werror -Wextra -O3 -v
